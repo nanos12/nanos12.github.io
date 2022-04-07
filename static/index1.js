@@ -1,9 +1,9 @@
 $("body").on("click", "#btnDcrypt1", function(){
   
-  decrypt();
+  decrypt1();
 });
 
-function decrypt() {
+function decrypt1() {
   var encryptedData = $("#cryptedData").val();
   var dataArr = encryptedData.split('');
   var prefixCode = CryptoJS.enc.Utf8.parse("$#").toString();
