@@ -1,4 +1,4 @@
-$("body").on("click", "#btnDcrypt", function(){
+$("body").on("click", "#btnDcrypt2", function(){
   
   decrypt();
 });
