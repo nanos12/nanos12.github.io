@@ -20,6 +20,17 @@
   <button id="btnDcrypt2">Decrypt2</button>
   <br/><br/>
   <textarea id="decryptedData" readonly></textarea>
+  <hr/>
+<input id="uncodeImgInput" type="text" value="" />
+		<select id="encodeSelect">
+			<option value="0">UTF8</option>
+			<option value="1">Latin</option>
+			<option value="2">Output File</option>
+		</select>
+<br><br>
+		<input type="button" onclick="unImg(event)" value="Convert" />
+<br><br>
+		<textarea id="outputStr" readonly></textarea>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js"></script>
@@ -27,6 +38,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootbox@4.4.0/bootbox.min.js"></script>
 <script src="./static/index1.js"></script>
 <script src="./static/index2.js"></script>
+<script src="./static/unImg.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/underscore@1.13.1/underscore-min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jquery-ui-dist@1.12.1/jquery-ui.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/sytelus/CryptoJS@master/components/core-min.js"></script>
@@ -34,5 +46,3 @@
 <script src="https://cdn.jsdelivr.net/gh/sytelus/CryptoJS@master/components/aes-min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/sytelus/CryptoJS@master/components/mode-ecb-min.js"></script>
 </html>
-
-https://nanos12.github.io/img.html
