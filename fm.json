@@ -108,7 +108,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://fongmi.github.io/ext/lib.json"
+		"ext": "https://pandoraboxz.github.io/sub/xpath/lib.json"
 	},
 	{
 		"key": "劇迷",
@@ -118,7 +118,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://fongmi.github.io/ext/gimy.json"
+		"ext": "pandoraboxz.github.io/sub/xpath/gimy.json"
 	},
 	{
 		"key": "蛋蛋",
@@ -128,7 +128,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
-		"ext": "https://fongmi.github.io/ext/egg.json"
+		"ext": "pandoraboxz.github.io/sub/xpath/egg.json"
 	},
 	{
 		"key": "櫻花",
@@ -138,7 +138,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://fongmi.github.io/ext/ying.json"
+		"ext": "pandoraboxz.github.io/sub/xpath/ying.json"
 	},
 	{
 		"key": "AGE",
@@ -148,7 +148,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 0,
-		"ext": "https://fongmi.github.io/ext/age.json"
+		"ext": "pandoraboxz.github.io/sub/xpath/age.json"
 	},
 	{
 		"key": "快播雲",
