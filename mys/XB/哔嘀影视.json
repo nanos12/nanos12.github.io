@@ -1,10 +1,14 @@
+// 修复错误的"日本番剧" 类别
 {
   "name": "哔嘀影视",
   "url": "https://bidiys.cc/",
-  "User": "空",
+  "User": "User-Agent:Dart/2.14 (dart:io)",
+  //"User": "空",
   "shouye": "1",
-  "fenlei": "南瓜电影$/vodshow-nanguady--------#4K专区$/vodshow-huiyuanzhuanqu--------#电影$/vodshow-dianying--------#电视剧$/vodshow-lianxuju--------#日本番剧$/vodshow-lianxuju--------#动漫$/vodshow-dongman--------#综艺$/vodshow-zongyi--------#国产剧$/vodshow-guochanju--------#港台剧$/vodshow-gangtaiju--------#日韩剧$/vodshow-rihanju--------#欧美剧$/vodshow-oumeiju--------#其他海外$/vodshow-qita--------",
+
+  "fenlei": "南瓜电影$/vodshow-nanguady--------#4K专区$/vodshow-huiyuanzhuanqu--------#电影$/vodshow-dianying--------#电视剧$/vodshow-lianxuju--------#日本番剧$/vodshow-rbdm--------#动漫$/vodshow-dongman--------#综艺$/vodshow-zongyi--------#国产剧$/vodshow-guochanju--------#港台剧$/vodshow-gangtaiju--------#日韩剧$/vodshow-rihanju--------#欧美剧$/vodshow-oumeiju--------#其他海外$/vodshow-qita--------",
   "houzhui": "---.html",
+
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
@@ -16,6 +20,7 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
   "sousuoqian": "/vodsearch--------------.html?wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/voddetail-",
@@ -34,11 +39,13 @@
   "ssbiaotihou": "\"",
   "sslianjieqian": "href=\"",
   "sslianjiehou": "\"",
+
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "id=\"sort-item-",
   "bfjiequshuzuhou": "</div>",
+
   "zhuangtaiqian": "class=\"module-item-text\">",
   "zhuangtaihou": "</div>",
   "daoyanqian": "导演：</span>",
@@ -47,6 +54,7 @@
   "zhuyanhou": "</div>",
   "juqingqian": "剧情：</span>",
   "juqinghou": "</div>",
+
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
