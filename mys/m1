@@ -1,3 +1,4 @@
+// 使用报错的猫友，请改用 CH猫友测试配置接口 https://freed.yuanhsing.cf/maoocf.json
 // 感谢猫友告知, "导致搜寻会卡顿" 的问题(23影院.json) 已经找出并修复
 // 强烈建议升级猫影视TV至 2.1.1 Beta3(含)以上版本, 嗅探进行了大幅优化, 这样子XBiubiu的使用体验会更好!
 
@@ -8,14 +9,14 @@
 ## spider
 # 00.官方jar
 # TG (猫影视TV渡口🛳, 不定期开放邀请链接 ) --> https://t.me/catvodtv_offical
-//"spider":"https://raw.fastgit.org/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 
 # 02.🦖 (非官方) 唐三大佬维护接口:
-# Github --> https://raw.fastgit.org/Tangsan99999/
+# Github --> https://github.com/Tangsan99999/
 # TG --> https://t.me/tangsan99999
 
 # 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
-# Github --> https://raw.fastgit.org/lite-cucumber/
+# Github --> https://github.com/lite-cucumber/
 # 套Biubiu+LiteApple+七七+PushAgent规则
 //"spider":"https://nanos12.github.io/mys/XB/XBiubiuLA2.jar",
 # 套Biubiu修正+LiteApple+Kuaikan规则 (没有PushAgent)
@@ -457,7 +458,7 @@
 # 推送功能扩展（需v2.1.0.Beta6及以上版本）
 # 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
 # 支持推送播放网盘链接
-# https://raw.fastgit.org/catvod/CatVodTVSpider
+# https://github.com/catvod/CatVodTVSpider
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
