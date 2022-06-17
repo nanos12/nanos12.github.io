@@ -13,13 +13,14 @@
   "jiequqian": "空", //不需要二次截取就填空
   "jiequhou": "空", //不需要二次截取就填空
   "jiequshuzuqian": "class=\"fed-list-pics", //截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义
-  "jiequshuzuhou": "<span", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
+  "jiequshuzuhou": "class=\"fed-list-score2", //截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianqian": "data-original=\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
   "tupianhou": "\"", //列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotiqian": "title=\"", //列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
   "biaotihou": "\"", //列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"", //列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+
 
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/vodsearch/-------------.html?wd=",
@@ -59,7 +60,7 @@
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyjiequqian": "空", //不需要二次截取就填空
   "bfyjiequhou": "空", //不需要二次截取就填空
-  "bfyjiequshuzuqian": "class=\"fed-btns-info", //播放剧集数组前关键词
+  "bfyjiequshuzuqian": "<a", //播放剧集数组前关键词
   "bfyjiequshuzuhou": "/a>", //播放剧集数组后关键词
   "bfbiaotiqian": ">", //播放剧集标题前关键词
   "bfbiaotihou": "<", //状播放剧集标题后关键词
