@@ -109,7 +109,7 @@
 {"name":"海胆影视","url":"http://xf123.cc/api.php/app/"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}
 ],
-
+https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/freed/master/BiuBiu/live.txt
 "caijizhan": [
 // 填采集站接口,
 // 采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
@@ -381,7 +381,7 @@
 // 备用解析 是常规格式的解析，可以添加多个，用#号分割，最后一个不加#号
 "beiyongjiexi": "https://jx.parwix.com:4433/player/?url=#https://jx.parwix.com:4433/player/analysis.php?v=#http://1.117.152.239:39000/?url=#http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=#http://api.diliktv.xyz/vip/jx.php?url=#https://nbjx.vip/?url=#https://www.nxflv.com/?url=#https://vipjx.cc/?url=https://jx.parwix.com:4433/player/?url=#https://jx.aidouer.net/?url=#https://svip.bljiex.cc/?v=#https://bd.jx.cn/vip/?url=#https://z1.m1907.cn/?jx=#https://vip.2ktvb.com/player/?url=", 
 // 电视直播的接口链接
-"dianshizhibo": "https://freed.yuanhsing.cf/BiuBiu/live.txt",
+"dianshizhibo": "https://ghproxy.com/https://raw.githubusercontent.com/YuanHsing/freed/master/BiuBiu/live.txt",
 // 体育直播平台的翻页链接
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
