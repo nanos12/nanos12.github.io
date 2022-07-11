@@ -8,7 +8,7 @@
 
 ## 配置地址 简易设定流程：
 * 我的 --> 设置 --> 配置地址
-        输入 https://nanos12.github.io/TVBox/meowcf.json --> 确定
+        输入 https://nanos12.github.io/TVBox/meow.json --> 确定
 
 ## 切换数据源
 * 我的 --> 设置 --> 首页数据源
