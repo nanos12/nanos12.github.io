@@ -1,6 +1,6 @@
 {
 "spider":"https://gaotianliuyun.github.io/gao/jar/top97_1.jar;md5;7299c83c6ee488b6051041d3f9a30488",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://gaotianliuyun.github.io/gao/listx.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://nanos12.github.io/jin.txt"]}]}],
 "sites":
 [{"key":"T4_douban","name":"影视推荐","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Alist","name":"Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gaotianliuyun.github.io/gao/json/Alist1.json"},
